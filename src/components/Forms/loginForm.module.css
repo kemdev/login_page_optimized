@@ -1,17 +1,16 @@
 .rightItem {
-  display: flex;
   align-items: center;
-  flex-direction: column;
+  flex-direction: column !important;
   justify-content: center;
-  background-color: #1c1b1c;
-  color: #fff;
+  background-color: #1c1b1c !important;
+  color: #fff !important;
   padding: 0 4rem;
 }
 .github-btn {
   width: 100%;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 600px) {
   .rightItem {
     position: absolute;
     inset: 0;
