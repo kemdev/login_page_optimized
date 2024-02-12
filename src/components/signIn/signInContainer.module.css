@@ -1,0 +1,8 @@
+@media screen and (max-width: 750px) {
+  .leftItem {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+  }
+}

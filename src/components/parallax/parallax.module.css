@@ -1,0 +1,31 @@
+.parallaxImage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 600px;
+  background-image: url(../../public/leftImg/clouds.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+  transform-style: preserve-3d;
+}
+
+.hotBalloon {
+  transform: translateZ(160px) scale(0.8);
+  max-width: 60%;
+  height: auto;
+}
+
+@media screen and (max-width: 750px) {
+  .parallaxImage {
+    background-position: center;
+    height: 150px;
+    width: 100%;
+    z-index: 1;
+  }
+  .hotBalloon{
+    max-width: 20%;
+  }
+}

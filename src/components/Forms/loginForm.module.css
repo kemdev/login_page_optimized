@@ -1,0 +1,25 @@
+.rightItem {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1c1b1c;
+  color: #fff;
+  padding: 0 4rem;
+}
+.github-btn {
+  width: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  .rightItem {
+    position: absolute;
+    inset: 0;
+    background-color: transparent;
+    width: 100%;
+    backdrop-filter: blur(9.5px);
+    -webkit-backdrop-filter: blur(9.5px);
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+}
