@@ -1,3 +1,45 @@
+
+## Screenshots
+
+![App Screenshot](https://awesomescreenshot.s3.amazonaws.com/image/429945/47233981-c7c1af2a7c6979cb36428768ffc232de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20240403%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240403T145343Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=0d9ccb954a8a8aceee94a2453fbc32e350ae046c2765b9446cdb29462034bd4f)
+# Cool Login Page.
+
+This is a cool login page with Next.js
+
+
+## Demo
+
+https://login-page-optimized-xqlc-newhgg6ss-kemdev.vercel.app/auth/signin
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+-----------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
