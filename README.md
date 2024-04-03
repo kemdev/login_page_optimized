@@ -9,7 +9,7 @@ This is a cool login page with Next.js
 
 ## Demo
 
-https://login-page-optimized-xqlc-newhgg6ss-kemdev.vercel.app/auth/signin
+[Demo](https://login-page-optimized-xqlc.vercel.app/auth/signin)
 
 
 ## Run Locally
